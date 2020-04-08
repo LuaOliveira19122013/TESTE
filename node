@@ -1,0 +1,30 @@
+volanty@volanty-Inspiron-5482:~$ npm -v
+6.14.4
+
+volanty@volanty-Inspiron-5482:~$ node -v
+v8.10.0
+
+
+
+sudo npm uninstall sax --save
+
+
+sudo npm rm --global
+
+
+$ sudo apt-get update
+$ sudo apt-get install nodejs
+
+
+
+tar -zxvf node-v13.12.0-linux-x64.tar.xz
+
+
+
+volanty@volanty-Inspiron-5482:~$ npm -v
+6.14.4
+volanty@volanty-Inspiron-5482:~$ node -v
+v13.12.0
+
+
+sudo npm install latest-version
